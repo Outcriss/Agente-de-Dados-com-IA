@@ -1,0 +1,151 @@
+data,produto,categoria,quantidade,preco_unitario,valor_total,regiao,canal_venda
+2025-01-07,Areia Sanitaria Gato 4kg,Pet Shop,2,39.39,78.78,Centro-Oeste,Marketplace
+2025-01-08,HQ Colecao Marvel,Livros,1,30.06,30.06,Sudeste,Marketplace
+2025-01-09,Fone de Ouvido Bluetooth,Eletronicos,2,125.62,251.24,Sul,Marketplace
+2025-01-15,Smart TV 50 polegadas,Eletronicos,1,2331.66,2331.66,Norte,Marketplace
+2025-01-17,Smartphone Galaxy A54,Eletronicos,1,1776.39,1776.39,Norte,Site
+2025-01-20,Smart TV 50 polegadas,Eletronicos,1,2232.98,2232.98,Nordeste,Loja Fisica
+2025-01-23,Kit Maquiagem Completo,Beleza e Cuidados,1,148.93,148.93,Centro-Oeste,Site
+2025-01-23,Smartphone Galaxy A54,Eletronicos,1,1849.30,1849.30,Nordeste,Aplicativo
+2025-01-23,HQ Colecao Marvel,Livros,2,29.59,59.18,Norte,Aplicativo
+2025-01-26,Livro Ficcao Best Seller,Livros,4,53.89,215.56,Sudeste,Aplicativo
+2025-01-30,Bicicleta Aro 29,Esportes,1,1399.13,1399.13,Norte,Site
+2025-02-01,Jogo de Panelas,Casa e Decoracao,4,362.68,1450.72,Sudeste,Aplicativo
+2025-02-04,Brinquedo Pet Interativo,Pet Shop,1,46.16,46.16,Norte,Aplicativo
+2025-02-06,Notebook Dell Inspiron,Eletronicos,1,3311.97,3311.97,Norte,Marketplace
+2025-02-07,Bola de Futebol,Esportes,1,81.55,81.55,Sul,Marketplace
+2025-02-11,Whey Protein 900g,Esportes,2,147.60,295.20,Nordeste,Aplicativo
+2025-02-13,Jaqueta Corta Vento,Vestuario,4,178.31,713.24,Norte,Aplicativo
+2025-02-14,Tenis Esportivo,Vestuario,1,265.16,265.16,Centro-Oeste,Loja Fisica
+2025-02-16,Perfume Importado 100ml,Beleza e Cuidados,1,268.89,268.89,Sul,Loja Fisica
+2025-02-17,Jogo de Panelas,Casa e Decoracao,4,327.32,1309.28,Norte,Marketplace
+2025-02-21,Ração Premium Cachorro 15kg,Pet Shop,1,171.10,171.10,Sul,Marketplace
+2025-02-22,Livro Autoajuda,Livros,2,41.44,82.88,Norte,Loja Fisica
+2025-03-09,Livro Autoajuda,Livros,2,40.83,81.66,Sudeste,Site
+2025-03-21,Calca Jeans Skinny,Vestuario,6,125.67,754.02,Norte,Site
+2025-03-26,Jogo de Panelas,Casa e Decoracao,2,322.03,644.06,Centro-Oeste,Marketplace
+2025-03-26,Ração Premium Cachorro 15kg,Pet Shop,1,178.96,178.96,Norte,Site
+2025-03-27,Cortina Blackout,Casa e Decoracao,1,129.60,129.60,Centro-Oeste,Site
+2025-03-27,Colchonete Yoga,Esportes,3,71.10,213.30,Sudeste,Aplicativo
+2025-04-09,Calca Jeans Skinny,Vestuario,1,130.65,130.65,Sul,Marketplace
+2025-04-09,Cortina Blackout,Casa e Decoracao,2,133.33,266.66,Sul,Marketplace
+2025-04-09,Calca Jeans Skinny,Vestuario,1,134.86,134.86,Norte,Marketplace
+2025-04-13,Ração Premium Cachorro 15kg,Pet Shop,1,166.09,166.09,Sul,Loja Fisica
+2025-04-18,Livro Autoajuda,Livros,1,38.30,38.30,Norte,Loja Fisica
+2025-04-19,Livro Ficcao Best Seller,Livros,5,49.89,249.45,Centro-Oeste,Aplicativo
+2025-04-19,Halteres 10kg Par,Esportes,3,208.06,624.18,Nordeste,Loja Fisica
+2025-04-23,Camiseta Basica Algodao,Vestuario,3,41.84,125.52,Centro-Oeste,Site
+2025-04-23,Tenis Esportivo,Vestuario,1,247.33,247.33,Nordeste,Loja Fisica
+2025-04-24,Calca Jeans Skinny,Vestuario,2,136.48,272.96,Nordeste,Aplicativo
+2025-04-25,Smartphone Galaxy A54,Eletronicos,2,1948.55,3897.10,Nordeste,Site
+2025-04-29,Jogo de Panelas,Casa e Decoracao,3,360.76,1082.28,Sudeste,Loja Fisica
+2025-04-29,Smart TV 50 polegadas,Eletronicos,1,2276.86,2276.86,Norte,Aplicativo
+2025-04-30,Areia Sanitaria Gato 4kg,Pet Shop,1,37.35,37.35,Nordeste,Aplicativo
+2025-05-03,Notebook Dell Inspiron,Eletronicos,2,3353.93,6707.86,Sudeste,Site
+2025-05-05,Shampoo e Condicionador,Beleza e Cuidados,2,59.64,119.28,Sudeste,Site
+2025-05-05,Caixa de Som JBL,Eletronicos,1,358.64,358.64,Sudeste,Loja Fisica
+2025-05-06,Whey Protein 900g,Esportes,4,162.75,651.00,Centro-Oeste,Loja Fisica
+2025-05-07,Jaqueta Corta Vento,Vestuario,1,176.65,176.65,Norte,Aplicativo
+2025-05-09,Brinquedo Pet Interativo,Pet Shop,1,53.16,53.16,Centro-Oeste,Marketplace
+2025-05-10,Areia Sanitaria Gato 4kg,Pet Shop,4,39.76,159.04,Centro-Oeste,Loja Fisica
+2025-05-13,Perfume Importado 100ml,Beleza e Cuidados,3,278.18,834.54,Norte,Loja Fisica
+2025-05-14,Calca Jeans Skinny,Vestuario,1,133.43,133.43,Nordeste,Loja Fisica
+2025-05-15,Bicicleta Aro 29,Esportes,2,1562.77,3125.54,Sudeste,Marketplace
+2025-05-16,Caixa de Som JBL,Eletronicos,2,335.72,671.44,Nordeste,Loja Fisica
+2025-05-16,Smart TV 50 polegadas,Eletronicos,3,2336.12,7008.36,Sul,Marketplace
+2025-05-17,Camiseta Basica Algodao,Vestuario,1,41.73,41.73,Sudeste,Loja Fisica
+2025-05-20,Sofa 3 Lugares,Casa e Decoracao,2,1844.22,3688.44,Sul,Aplicativo
+2025-05-23,Livro Autoajuda,Livros,2,39.81,79.62,Norte,Loja Fisica
+2025-05-23,Luminaria de Mesa,Casa e Decoracao,2,91.94,183.88,Norte,Marketplace
+2025-05-25,Colchonete Yoga,Esportes,1,66.66,66.66,Nordeste,Loja Fisica
+2025-05-26,Bicicleta Aro 29,Esportes,3,1539.22,4617.66,Sudeste,Aplicativo
+2025-05-30,Notebook Dell Inspiron,Eletronicos,3,3348.67,10046.01,Centro-Oeste,Site
+2025-06-06,Bola de Futebol,Esportes,3,81.45,244.35,Sudeste,Aplicativo
+2025-06-09,Smart TV 50 polegadas,Eletronicos,5,2226.68,11133.40,Norte,Loja Fisica
+2025-06-10,Notebook Dell Inspiron,Eletronicos,2,3247.15,6494.30,Norte,Aplicativo
+2025-06-11,Jogo de Panelas,Casa e Decoracao,1,336.90,336.90,Norte,Marketplace
+2025-06-15,Colchonete Yoga,Esportes,1,67.11,67.11,Norte,Site
+2025-06-17,Sofa 3 Lugares,Casa e Decoracao,2,1978.37,3956.74,Centro-Oeste,Marketplace
+2025-06-20,Sofa 3 Lugares,Casa e Decoracao,5,1950.69,9753.45,Nordeste,Loja Fisica
+2025-06-22,Smartphone Galaxy A54,Eletronicos,1,1898.17,1898.17,Centro-Oeste,Aplicativo
+2025-06-24,Tenis Esportivo,Vestuario,6,236.12,1416.72,Nordeste,Site
+2025-06-27,Halteres 10kg Par,Esportes,2,197.61,395.22,Norte,Marketplace
+2025-07-01,Shampoo e Condicionador,Beleza e Cuidados,1,57.58,57.58,Norte,Marketplace
+2025-07-06,Cortina Blackout,Casa e Decoracao,3,120.96,362.88,Nordeste,Marketplace
+2025-07-09,Luminaria de Mesa,Casa e Decoracao,1,85.72,85.72,Sudeste,Aplicativo
+2025-07-09,Vestido Casual,Vestuario,4,94.43,377.72,Nordeste,Site
+2025-07-19,Brinquedo Pet Interativo,Pet Shop,6,52.05,312.30,Sudeste,Loja Fisica
+2025-07-21,Bola de Futebol,Esportes,1,80.72,80.72,Centro-Oeste,Aplicativo
+2025-07-23,HQ Colecao Marvel,Livros,2,28.46,56.92,Sul,Site
+2025-07-27,Halteres 10kg Par,Esportes,1,210.57,210.57,Sul,Loja Fisica
+2025-07-28,Sofa 3 Lugares,Casa e Decoracao,2,1911.95,3823.90,Sul,Loja Fisica
+2025-07-31,Smartphone Galaxy A54,Eletronicos,5,1802.43,9012.15,Centro-Oeste,Aplicativo
+2025-08-05,HQ Colecao Marvel,Livros,10,32.09,320.90,Norte,Loja Fisica
+2025-08-06,Smart TV 50 polegadas,Eletronicos,3,2214.68,6644.04,Nordeste,Aplicativo
+2025-08-09,Caixa de Som JBL,Eletronicos,2,324.25,648.50,Sudeste,Marketplace
+2025-08-13,Smart TV 50 polegadas,Eletronicos,1,2187.99,2187.99,Centro-Oeste,Marketplace
+2025-08-15,Halteres 10kg Par,Esportes,2,206.48,412.96,Sudeste,Site
+2025-08-18,Bola de Futebol,Esportes,5,77.06,385.30,Sul,Loja Fisica
+2025-08-21,Fone de Ouvido Bluetooth,Eletronicos,1,126.04,126.04,Centro-Oeste,Site
+2025-08-23,Colchonete Yoga,Esportes,10,75.47,754.70,Sudeste,Aplicativo
+2025-08-25,Jaqueta Corta Vento,Vestuario,1,201.28,201.28,Norte,Site
+2025-08-25,Camiseta Basica Algodao,Vestuario,2,37.03,74.06,Sul,Loja Fisica
+2025-08-27,Cortina Blackout,Casa e Decoracao,2,136.67,273.34,Nordeste,Aplicativo
+2025-09-02,Smartphone Galaxy A54,Eletronicos,1,2034.49,2034.49,Centro-Oeste,Loja Fisica
+2025-09-06,Ração Premium Cachorro 15kg,Pet Shop,4,167.50,670.00,Sul,Aplicativo
+2025-09-08,Halteres 10kg Par,Esportes,3,208.16,624.48,Centro-Oeste,Loja Fisica
+2025-09-14,Halteres 10kg Par,Esportes,1,199.70,199.70,Sudeste,Loja Fisica
+2025-09-17,Tenis Esportivo,Vestuario,1,235.20,235.20,Sudeste,Aplicativo
+2025-09-19,Whey Protein 900g,Esportes,6,167.41,1004.46,Sul,Site
+2025-09-23,Livro Ficcao Best Seller,Livros,1,49.44,49.44,Norte,Loja Fisica
+2025-09-25,Livro Ficcao Best Seller,Livros,4,48.06,192.24,Norte,Loja Fisica
+2025-09-25,Jogo de Panelas,Casa e Decoracao,2,347.13,694.26,Norte,Loja Fisica
+2025-10-01,Kit Maquiagem Completo,Beleza e Cuidados,2,143.78,287.56,Nordeste,Aplicativo
+2025-10-03,Kit Maquiagem Completo,Beleza e Cuidados,4,155.53,622.12,Sul,Loja Fisica
+2025-10-08,Tapete Sala 2x3m,Casa e Decoracao,3,233.88,701.64,Centro-Oeste,Loja Fisica
+2025-10-09,Sofa 3 Lugares,Casa e Decoracao,2,1853.97,3707.94,Nordeste,Marketplace
+2025-10-10,Vestido Casual,Vestuario,3,105.17,315.51,Nordeste,Aplicativo
+2025-10-10,Fone de Ouvido Bluetooth,Eletronicos,2,122.76,245.52,Norte,Loja Fisica
+2025-10-11,Areia Sanitaria Gato 4kg,Pet Shop,3,42.72,128.16,Sudeste,Marketplace
+2025-10-12,Smartphone Galaxy A54,Eletronicos,1,1904.95,1904.95,Sul,Loja Fisica
+2025-10-13,Jaqueta Corta Vento,Vestuario,1,202.58,202.58,Sul,Loja Fisica
+2025-10-15,Calca Jeans Skinny,Vestuario,3,134.39,403.17,Centro-Oeste,Aplicativo
+2025-10-21,Vestido Casual,Vestuario,2,99.41,198.82,Sul,Site
+2025-10-24,Colchonete Yoga,Esportes,1,64.75,64.75,Norte,Marketplace
+2025-10-24,Colchonete Yoga,Esportes,2,71.63,143.26,Centro-Oeste,Aplicativo
+2025-10-26,Jogo de Panelas,Casa e Decoracao,10,342.17,3421.70,Sul,Loja Fisica
+2025-10-29,Jaqueta Corta Vento,Vestuario,3,174.93,524.79,Sudeste,Aplicativo
+2025-11-02,Fone de Ouvido Bluetooth,Eletronicos,2,127.51,255.02,Centro-Oeste,Marketplace
+2025-11-03,Sofa 3 Lugares,Casa e Decoracao,1,1895.54,1895.54,Nordeste,Marketplace
+2025-11-07,Bicicleta Aro 29,Esportes,5,1407.66,7038.30,Sul,Marketplace
+2025-11-14,Kit Maquiagem Completo,Beleza e Cuidados,5,141.61,708.05,Sul,Aplicativo
+2025-11-15,Perfume Importado 100ml,Beleza e Cuidados,2,289.83,579.66,Sudeste,Aplicativo
+2025-11-17,Jaqueta Corta Vento,Vestuario,1,183.05,183.05,Nordeste,Aplicativo
+2025-11-17,Calca Jeans Skinny,Vestuario,1,125.01,125.01,Sul,Aplicativo
+2025-11-19,Bola de Futebol,Esportes,3,75.99,227.97,Centro-Oeste,Loja Fisica
+2025-11-22,Brinquedo Pet Interativo,Pet Shop,3,52.52,157.56,Centro-Oeste,Aplicativo
+2025-11-22,Ração Premium Cachorro 15kg,Pet Shop,1,179.66,179.66,Nordeste,Loja Fisica
+2025-11-24,Smart TV 50 polegadas,Eletronicos,1,2031.88,2031.88,Sul,Aplicativo
+2025-11-24,Bicicleta Aro 29,Esportes,1,1526.05,1526.05,Sul,Site
+2025-11-25,Sofa 3 Lugares,Casa e Decoracao,2,1780.97,3561.94,Centro-Oeste,Site
+2025-11-29,Fone de Ouvido Bluetooth,Eletronicos,3,135.75,407.25,Sudeste,Aplicativo
+2025-12-03,Areia Sanitaria Gato 4kg,Pet Shop,2,40.17,80.34,Sul,Marketplace
+2025-12-04,Whey Protein 900g,Esportes,1,171.33,171.33,Norte,Loja Fisica
+2025-12-04,Cortina Blackout,Casa e Decoracao,2,126.87,253.74,Sudeste,Site
+2025-12-06,Areia Sanitaria Gato 4kg,Pet Shop,5,37.50,187.50,Norte,Marketplace
+2025-12-06,Bola de Futebol,Esportes,2,78.23,156.46,Nordeste,Loja Fisica
+2025-12-08,Ração Premium Cachorro 15kg,Pet Shop,6,181.47,1088.82,Sudeste,Aplicativo
+2025-12-08,Cortina Blackout,Casa e Decoracao,3,126.29,378.87,Norte,Aplicativo
+2025-12-08,Bicicleta Aro 29,Esportes,2,1616.99,3233.98,Centro-Oeste,Loja Fisica
+2025-12-09,Smart TV 50 polegadas,Eletronicos,1,2221.51,2221.51,Nordeste,Marketplace
+2025-12-10,Livro Ficcao Best Seller,Livros,5,48.89,244.45,Centro-Oeste,Site
+2025-12-11,Vestido Casual,Vestuario,1,95.50,95.50,Sudeste,Site
+2025-12-11,Ração Premium Cachorro 15kg,Pet Shop,1,173.27,173.27,Sul,Loja Fisica
+2025-12-12,Areia Sanitaria Gato 4kg,Pet Shop,1,38.21,38.21,Norte,Aplicativo
+2025-12-17,Sofa 3 Lugares,Casa e Decoracao,4,2003.17,8012.68,Sul,Site
+2025-12-18,Jaqueta Corta Vento,Vestuario,4,202.78,811.12,Norte,Aplicativo
+2025-12-20,Brinquedo Pet Interativo,Pet Shop,1,47.10,47.10,Nordeste,Aplicativo
+2025-12-22,Whey Protein 900g,Esportes,6,154.48,926.88,Norte,Site
+2025-12-23,Perfume Importado 100ml,Beleza e Cuidados,3,280.70,842.10,Sudeste,Site
+2025-12-24,Caixa de Som JBL,Eletronicos,4,357.62,1430.48,Sudeste,Site
+2025-12-27,Fone de Ouvido Bluetooth,Eletronicos,1,120.46,120.46,Nordeste,Site
