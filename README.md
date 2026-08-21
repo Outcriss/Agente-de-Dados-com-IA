@@ -20,7 +20,3 @@ Agente-de-Dados-com-IA/
 ├── agent.py                 # Lógica principal do agente e integração com LLM
 ├── requirements.txt         # Dependências do projeto
 └── README.md                # Documentação do repositório
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/Outcriss/Agente-de-Dados-com-IA.git](https://github.com/Outcriss/Agente-de-Dados-com-IA.git)
-   cd Agente-de-Dados-com-IA
