@@ -12,5 +12,5 @@ Agente autônomo em Python que interpreta perguntas em linguagem natural sobre b
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/agente-dados-ia.git](https://github.com/SEU_USUARIO/agente-dados-ia.git)
+   git clone [https://github.com/Outcriss/Agente-de-Dados-com-IA.git](https://github.com/Outcriss/Agente-de-Dados-com-IA.git)
    cd agente-dados-ia
